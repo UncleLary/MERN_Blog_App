@@ -35,7 +35,7 @@ Deleting post:
 ![image](https://github.com/UncleLary/MERN_Blog_App/assets/86026549/d915e95e-cbec-43e3-918f-e749845bf888)
 
 Post edition:
-\n
+<br />
 ![image](https://github.com/UncleLary/MERN_Blog_App/assets/86026549/310f2ca3-cdb9-4480-9a7d-bb1d96026183)
 ![image](https://github.com/UncleLary/MERN_Blog_App/assets/86026549/354ded24-d10f-45a6-8ef9-b2cdf8468820)
 ![image](https://github.com/UncleLary/MERN_Blog_App/assets/86026549/c15d712d-3654-4f6a-be7c-57830c1a2193)
