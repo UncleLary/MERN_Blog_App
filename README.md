@@ -7,3 +7,7 @@ I used REST architecture, validation of user input is done both on the client&se
 
 User can Create/Update/Delete/Edit(CRUD) post if he is its author.
 CRUD operations are also avaiable on account.
+
+Screens:
+![image](https://github.com/UncleLary/MERN_Blog_App/assets/86026549/24f1248d-5684-437b-8be6-043a9b187aa8)
+
